@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, seja bem-vindo ao meu GitHub! 👋
 
-<!--
-**afmacaringue/afmacaringue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por **Flask**, **Python** e **geoprocessamento**. 🚀
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- ![Leaflet](https://img.shields.io/badge/-Leaflet-3BB3B5?logo=leaflet&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+## 📚 Projetos em destaque
+
+- **[Babel Talk](https://github.com/seuusuario/babel-talk)**: Aplicativo para gerar e salvar citações de autores famosos.
+- **[WebGIS Projeto](https://github.com/seuusuario/webgis-projeto)**: Aplicação para visualização de dados geoespaciais com Flask e Leaflet.
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&count_private=true&theme=radical)
+
+## 📫 Me encontre em:
+
+- **E-mail**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+- **Twitter**: [@SeuTwitter](https://twitter.com/seutwitter)
