@@ -26,6 +26,5 @@ Sou um desenvolvedor apaixonado por **Flask**, **Python**, **Flutter** e **geopr
 
 ## 📫 Me encontre em:
 
-- **E-mail**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)
-- **Twitter**: [@SeuTwitter](https://twitter.com/seutwitter)
+- **E-mail**: [antoniomacaringue27@gmail.com](mailto:antoniomacaringue27@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/antonio-macaringue/](https://www.linkedin.com/in/antonio-macaringue/)
